@@ -17,9 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     ///chillin at the cut
-    NSString *string = @"yo yo yo";
-    NSString *string2 = @"awwww schnaaaaps!";
-    
+    //comments
+    NSString *viksString = @"vik the viking";
 }
 
 - (void)didReceiveMemoryWarning {
