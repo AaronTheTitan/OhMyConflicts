@@ -19,7 +19,17 @@
     ///chillin at the cut
     NSString *string = @"yo yo yo";
     NSString *string2 = @"awwww schnaaaaps!";
-    
+
+    NSLog(@"uh oh, what's about to happen, %@, %@" , string, string2);
+
+    [self makingItHappenCaptain];
+}
+
+- (void)makingItHappenCaptain {
+    NSString *blowUp = @"Blowin it up, one thang at a time";
+
+    NSLog(@"%@", blowUp);
+
 }
 
 - (void)didReceiveMemoryWarning {
