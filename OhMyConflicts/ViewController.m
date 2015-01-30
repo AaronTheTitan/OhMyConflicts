@@ -21,6 +21,8 @@
     NSString *string2 = @"awwww schnaaaaps!";
 
     NSLog(@"uh oh, what's about to happen, %@, %@" , string, string2);
+    NSLog(@"don't be messin' stuff up mayne");
+
 
     [self makingItHappenCaptain];
 }
